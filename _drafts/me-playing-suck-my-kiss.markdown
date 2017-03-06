@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Me playing 'Suck my Kiss' by the 'Red Hot Chili Peppers'"
-date:   2017-03-05 22:15:31 +0100
+#date:   2017-03-05 22:15:31 +0100
 categories: guitar music
 ---
 
